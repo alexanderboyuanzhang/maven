@@ -1,4 +1,4 @@
-package com.boyuanzhang;
+package com.boyuanzhang.testpj;
 
 import static org.junit.Assert.assertTrue;
 

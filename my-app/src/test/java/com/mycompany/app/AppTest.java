@@ -15,6 +15,11 @@ public class AppTest
     @Test
     public void shouldAnswerWithTrue()
     {
+	System.out.println("${java.version}");
         assertTrue( true );
     }
+    
+    // Retrieve resource
+    // InputStream is = getClass().getResourceAsStream("/test.properties");
+
 }
